@@ -3,6 +3,7 @@
 **Nombre del Estudiante:** Jean Medina\
 **Repositorio Fork:** https://github.com/Jcmedinah/26_b2_r1
 
+
 ------------------------------------------------------------------------
 
 # 🧪 Laboratorio: Documentación de Pruebas de API REST
